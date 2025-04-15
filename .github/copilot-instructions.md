@@ -23,7 +23,7 @@ This is a multi-language playground repository used for:
 
 ### Python
 
-- Target Python 3.8+
+- Target Python 3.12+
 - Use type hints
 - Follow PEP 8 style guide
 - Implement proper error handling
